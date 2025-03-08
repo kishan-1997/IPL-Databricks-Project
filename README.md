@@ -109,6 +109,5 @@ For major changes, please open an **issue** first to discuss proposed modificati
 ---
 
 ## **Author**  
-👤 **Kishan Kumar Singh**  
-📧 **Email**: [kishankumarsingh01997@gmail.com](mailto:kishankumarsingh01997@gmail.com)  
-📍 **Location**: Bengaluru
+**Kishan Kumar Singh**  
+**Email**: [kishankumarsingh01997@gmail.com](mailto:kishankumarsingh01997@gmail.com)  
