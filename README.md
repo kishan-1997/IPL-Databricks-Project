@@ -25,7 +25,7 @@ The project utilizes multiple datasets containing IPL match details:
 
 ## **Key Analysis & Features**  
 
-### **Data Cleaning & Transformation**  
+### **Data Cleaning**  
 #### **Filtering Valid Deliveries**  
 - Excludes extras like **wides and no-balls** for more accurate analysis.  
 
@@ -34,7 +34,7 @@ The project utilizes multiple datasets containing IPL match details:
 
 ---
 
-### **Match Analysis**  
+### **Match Analysis & Transformation**  
 #### **Aggregating Runs Per Match & Inning**  
 - Computes **total and average runs** per match and inning.  
 
